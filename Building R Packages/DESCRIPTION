@@ -1,0 +1,15 @@
+Package: week2
+Type: Package
+Title: Peer-graded Assignment: Building an R Package
+Version: 0.0.1
+Author: Sahil Patel <email@example.com>
+Maintainer: Sahil Patel <email@example.com>
+Description: Functions to interact with data from the US National Highway Traffic Safety Administration's Fatality Analysis Reporting System.
+Depends: R (>= 3.3.1)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Depends: dplyr, readr, graphics, maps, tidyr
+Suggests: knitr, rmarkdown, testthat
+VignetteBuilder: knitr
