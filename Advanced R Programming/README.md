@@ -1,5 +1,4 @@
-## Coursera: Building an R Package [![Build Status](https://travis-ci.org/
-
+## Coursera: Building an R Package 
 ## Review criteria
 
 For this assignment you'll submit a link to the GitHub repository which contains your package. This assessment will ask reviewers the following questions:
