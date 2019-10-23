@@ -1,24 +1,28 @@
-# Advanced R Programming Course Project
-This is the course project for Coursera's Advanced R Programming class offered by the Johns Hopkins University.
 
-### Coursera: Building an R Package [![Build Status](https://travis-ci.org/ZeroStack/week2.svg?branch=master)](https://travis-ci.org/ZeroStack/week2)
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+Building an my R Package [![Build Status](https://travis-ci.org/vinh0105/mypackage.svg?branch=master)](https://travis-ci.org/vinh0105/mypackage)
+================================================================================================================================================
 
-#### Skills Gained
-The repo includes the following files:
+Instructions
+------------
 
-#### Part 1: Factorial Function
+The purpose of this assessment is for you to combine your skills of creating, writing, documenting, and testing an R package with releasing that package on GitHub. In this assessment you'll be taking the R files from Week 2's assessment about documentation and putting that file in an R package.
 
-factorial_code.R: R script file that contains four different versions of the Factorial function and that calculates a summary of their performance
-factorial_output.txt: text file produced by factorial_code.R that contains the results of the comparison of the four different implementations
-#### Part 2: Longitudinal Data Class and Methods
+For this assessment you must
+----------------------------
 
-oop_code.R: R script file that contains the code implementing classes, methods, and generics for the longitudinal dataset
+-   Write a vignette to include in your package using knitr and R Markdown
+-   Write at least one test written using testthat
+-   Put your package on GitHub
+-   Set up the repository so that the package can be checked and built on Travis
+-   Once your package has built on Travis and the build is passing with no errors, warnings, or notes you should add your Travis badge to the README.md file of your package repository.
 
-oop_output.R: R script that sources oop_code.R and that produces the console output saved in oop_output.txt.
+Review criteria
+---------------
 
-oop_output.txt: a text file containing the console output produced by running oop_output.R. The console output was added manually via copy&paste to the file.
+For this assignment you'll submit a link to the GitHub repository which contains your package. This assessment will ask reviewers the following questions:
 
-Writing good code for data science is only part of the job. In order to maximizing the usefulness and reusability of data science software, code must be organized and distributed in a manner that adheres to community-based standards and provides a good user experience. This course covers the primary means by which R software is organized and distributed to others.
-
-We cover R package development, writing good documentation and vignettes, writing robust software, cross-platform development, continuous integration tools, and distributing packages via CRAN and GitHub. Learners will produce R packages that satisfy the criteria for submission to CRAN.
- 
+-   Does this package contain the correct R file(s) under the R/ directory?
+-   Does this package contain a man/ directory with corresponding documentation files?
+-   Does this package contain a vignette which provides a meaningful description of the package and how it should be used?
+-   Does this package have at least one test included in the tests/ directory? Does this package have a NAMESPACE file? Does the README.md file for this directory have a Travis badge? Is the build of this package passing on Travis? Are the build logs for this package on Travis free of any errors, warnings, or notes?
