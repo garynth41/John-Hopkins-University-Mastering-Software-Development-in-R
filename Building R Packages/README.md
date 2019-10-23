@@ -8,10 +8,10 @@ The goal of QuizPackage is to present a package example
 
 ## Installation
 
-You can install the released version of QuizPackage from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of week2 from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("QuizPackage")
+install.packages("week2")
 ```
 
 ## Example
@@ -19,6 +19,6 @@ install.packages("QuizPackage")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(QuizPackage)
+library(week2)
 ## basic example code
 ```
