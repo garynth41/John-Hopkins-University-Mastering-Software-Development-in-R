@@ -17,3 +17,8 @@ oop_code.R: R script file that contains the code implementing classes, methods, 
 oop_output.R: R script that sources oop_code.R and that produces the console output saved in oop_output.txt.
 
 oop_output.txt: a text file containing the console output produced by running oop_output.R. The console output was added manually via copy&paste to the file.
+
+#### Writing good code for data science is only part of the job. In order to maximizing the usefulness and reusability of data science software, code must be organized and distributed in a manner that adheres to community-based standards and provides a good user experience. This course covers the primary means by which R software is organized and distributed to others.
+
+#### We cover R package development, writing good documentation and vignettes, writing robust software, cross-platform development, continuous integration tools, and distributing packages via CRAN and GitHub. Learners will produce R packages that satisfy the criteria for submission to CRAN.
+ 
