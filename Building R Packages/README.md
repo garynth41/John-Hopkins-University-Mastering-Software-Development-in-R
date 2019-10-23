@@ -1,9 +1,9 @@
 # Advanced R Programming Course Project
 This is the course project for Coursera's Advanced R Programming class offered by the Johns Hopkins University.
 
-# Coursera: Building an R Package [![Build Status](https://travis-ci.org/ZeroStack/week2.svg?branch=master)](https://travis-ci.org/ZeroStack/week2)
+### Coursera: Building an R Package [![Build Status](https://travis-ci.org/ZeroStack/week2.svg?branch=master)](https://travis-ci.org/ZeroStack/week2)
 
-### Skills Gained
+#### Skills Gained
 The repo includes the following files:
 
 #### Part 1: Factorial Function
