@@ -1,7 +1,7 @@
 # QuizPackage
 
 <!-- badges: start -->
-[![Build Status](https://travis-ci.org/EdissonQL/QuizPackage.svg?branch=master)](https://travis-ci.org/EdissonQL/QuizPackage)
+
 <!-- badges: end -->
 
 The goal of QuizPackage is to present a package example
