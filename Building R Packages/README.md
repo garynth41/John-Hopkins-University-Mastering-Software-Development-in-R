@@ -1,6 +1,7 @@
-### QuizPackage
+# QuizPackage
+
 <!-- badges: start -->
-Building an my R Package [![Build Status](https://travis-ci.org/vinh0105/mypackage.svg?branch=master)](https://travis-ci.org/vinh0105/mypackage)
+[![Build Status](https://travis-ci.org/EdissonQL/QuizPackage.svg?branch=master)](https://travis-ci.org/EdissonQL/QuizPackage)
 <!-- badges: end -->
 
 ##### Instructions:
