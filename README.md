@@ -42,7 +42,7 @@ There is a manual [Mastering Software Development in R.pdf](https://bookdown.org
 - Week 3 : Licensing, Version Control, and Software Design
 - Week 4 : Continuous Integration and Cross Platform Development
 
-Kindly refer to [The `farsdata` R Package](https://github.com/englianhu/farsdata) which is my R package repo for the assignment.
+
 
 ## Course 4 : Building Data Visualization Tools
 
