@@ -1,0 +1,23 @@
+Package: QuizPackage
+Type: Package
+Title: This a package for week's quiz 4
+Version: 0.1.0
+Author: Gary N. Thomas
+Maintainer: Gary N. Thomas<garynthomas@gmail.com>
+Description: This  is simply for demonstration purposes, that is it just computes number parameters for proof os test.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 3.1)
+Imports:
+    readr,
+    dplyr,
+    tidyr,
+    maps,
+    graphics
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
