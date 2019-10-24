@@ -1,6 +1,6 @@
 ### QuizPackage
 <!-- badges: start -->
-[![Build Status](https://travis-ci.org/garynth41/QuizPackage.svg?branch=master)](https://travis-ci.org/garynth41/QuizPackage)
+Building an my R Package [![Build Status](https://travis-ci.org/vinh0105/mypackage.svg?branch=master)](https://travis-ci.org/vinh0105/mypackage)
 <!-- badges: end -->
 
 ##### Instructions:
