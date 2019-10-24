@@ -1,15 +1,16 @@
-Package: week2
+Package: mypackage
 Type: Package
 Title: Peer-graded Assignment: Building an R Package
-Version: 0.0.1
-Author: Gary Thomas <email@example.com>
-Maintainer: Gary Thomas <email@example.com>
-Description: Functions to interact with data from the US National Highway Traffic Safety Administration's Fatality Analysis Reporting System.
-Depends: R (>= 3.3.1)
-License: GPL
+Version: 0.1.0
+Author: Gary N. Thomas
+Maintainer: Gary N. Thomas <vinh004@e.ntu.edu.sg>
+Description:  Explore the US National Highway Traffic Safety Administration's Fatality Analysis Reporting System (FARS)
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+Depends:
+    dplyr, graphics, maps, readr, tidyr
+Suggests:
+    knitr, rmarkdown, testthat
 RoxygenNote: 6.0.1
-Depends: dplyr, readr, graphics, maps, tidyr
-Suggests: knitr, rmarkdown, testthat
 VignetteBuilder: knitr
