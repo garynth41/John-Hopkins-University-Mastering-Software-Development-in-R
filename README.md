@@ -3,13 +3,13 @@ This repository covers R software development for building data science tools. A
 
 Specialization : [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r)
 
-- Course 1 : [The R Programming Environment](http://rpubs.com/englianhu/the-r-programming-environment)
-- Course 2 : [Advanced R Programming](http://rpubs.com/englianhu/advanced-r-programming)
+- Course 1 : The R Programming Environment
+- Course 2 : Advanced R Programming
 - Course 3 : Building R Packages
 - Course 4 : Building Data Visualization Tools
 - Course 5 : Mastering Software Development in R Capstone
 
-There is a manual [Mastering Software Development in R.pdf](https://github.com/englianhu/Coursera-Mastering-Software-Development-in-R/blob/master/reference/Mastering%20Software%20Development%20in%20R.pdf) for these courses.
+There is a manual [Mastering Software Development in R.pdf](https://bookdown.org/rdpeng/RProgDA/) for these courses.
 
 ## Course 1 : The R Programming Environment
 
